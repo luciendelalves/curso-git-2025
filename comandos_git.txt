@@ -5,7 +5,6 @@ git commit -m "msg"  -> Faz commit do que estava para ser commitado
 git log              -> Mostra todo o histórico de commit
 
 ## FLUXO DE TRABALHO
-
 1.criar o diretório do projeto
 2. iniciar o git dentro do diretório criado (git init .)
 3. edita ou cria arquivos
@@ -15,5 +14,3 @@ git log              -> Mostra todo o histórico de commit
 7. git commit -m "mensagem estranha"
 8. git status
 9. volta para o passo 3.
-
-fodase
