@@ -6,35 +6,35 @@ Além disso, vamos trabalhar com GitFlow e Visual Studio Code ao final do curso.
 
 ## Fluxo de trabalho Git local
 
--git checkout -b <nova-branch>
--cria ou atualiza arquivos
--git status
--git add "arquivos"
--git status
--git commit -m "minha mensagem"
--git checkout main
--git merge nova_branch
+1.git checkout -b <nova-branch>
+2.cria ou atualiza arquivos
+3.git status
+4.git add "arquivos"
+5.git status
+6.git commit -m "minha mensagem"
+7.git checkout main
+8.git merge nova_branch
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da empresa)
--git clone <endereco do projeto>
--git checkout -b <nova_branch>
--git alterações de arquivos
--git status
--git add "arquivos"
--git status
--git commit -m "nova mensagem"
--git push origin <nova_branch>
--git abrir Pull request no GitHub para main
--exclur <nova_branch> origin
--git checkout main
--git branch -D <nova_branch>
-
-*Houve alguns erros
-
+1.git clone <endereco do projeto>
+2.git checkout -b <nova_branch>
+3.git alterações de arquivos
+4.git status
+5.git add "arquivos"
+6.git status
+7.git commit -m "nova mensagem"
+8.git push origin <nova_branch>
+9.git abrir Pull request no GitHub para main
+10.exclur <nova_branch> origin
+11.git checkout main
+12.git branch -D <nova_branch>
 
 ------
 
 Participantes: 
 
--Luciendel
+-Danielle de Sena
+-Luciendel Alves
+-Téo Calvo
+
 
