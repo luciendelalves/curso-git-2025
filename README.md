@@ -33,8 +33,10 @@ Além disso, vamos trabalhar com GitFlow e Visual Studio Code ao final do curso.
 
 Participantes: 
 
+-Creuza de Jesus <br>
 -Danielle de Sena <br/>
 -Luciendel Alves <br/>
 -Téo Calvo <br/>
+-Zeca Baleiro <br/>
 
 
