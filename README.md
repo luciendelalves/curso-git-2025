@@ -6,14 +6,14 @@ Além disso, vamos trabalhar com GitFlow e Visual Studio Code ao final do curso.
 
 ## Fluxo de trabalho Git local
 
-1.git checkout -b <nova-branch>
-2.cria ou atualiza arquivos
-3.git status
-4.git add "arquivos"
-5.git status
-6.git commit -m "minha mensagem"
-7.git checkout main
-8.git merge nova_branch
+1.git checkout -b <nova-branch> <br/>
+2.cria ou atualiza arquivos <br/>
+3.git status <br/>
+4.git add "arquivos" <br/>
+5.git status <br/>
+6.git commit -m "minha mensagem" <br/>
+7.git checkout main <br/>
+8.git merge nova_branch <br/>
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da empresa)
 1.git clone <endereco do projeto>
