@@ -29,7 +29,7 @@ Além disso, vamos trabalhar com GitFlow e Visual Studio Code ao final do curso.
 -git checkout main
 -git branch -D <nova_branch>
 
-
+*Houve alguns erros
 
 
 ------
